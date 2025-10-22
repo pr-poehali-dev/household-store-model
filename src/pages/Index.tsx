@@ -9,42 +9,42 @@ const products = [
     id: 1,
     name: "Духовой шкаф Premium X1",
     price: 89900,
-    image: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=500&q=80",
+    image: "https://cdn.poehali.dev/projects/23b54783-75cb-45f5-b239-e8ecf680031b/files/4476a5c9-74e7-4ef1-b275-e64caae9d2f7.jpg",
     category: "Духовые шкафы"
   },
   {
     id: 2,
     name: "Кофемашина Elite Pro",
     price: 129900,
-    image: "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=500&q=80",
+    image: "https://cdn.poehali.dev/projects/23b54783-75cb-45f5-b239-e8ecf680031b/files/ec162eab-89af-4365-b954-038fbc7d3dcd.jpg",
     category: "Кофемашины"
   },
   {
     id: 3,
     name: "Холодильник Crystal",
     price: 249900,
-    image: "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=500&q=80",
+    image: "https://cdn.poehali.dev/projects/23b54783-75cb-45f5-b239-e8ecf680031b/files/70548baa-d318-4f81-846a-578ba1f3be2b.jpg",
     category: "Холодильники"
   },
   {
     id: 4,
     name: "Варочная панель Induction",
     price: 74900,
-    image: "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=500&q=80",
+    image: "https://cdn.poehali.dev/projects/23b54783-75cb-45f5-b239-e8ecf680031b/files/c25cc07c-5156-45f2-90f1-1b37c6f4be7b.jpg",
     category: "Варочные панели"
   },
   {
     id: 5,
     name: "Посудомоечная машина Smart",
     price: 94900,
-    image: "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?w=500&q=80",
+    image: "https://cdn.poehali.dev/projects/23b54783-75cb-45f5-b239-e8ecf680031b/files/ba3bbcb3-a1b2-4973-ac24-df8e664b38fc.jpg",
     category: "Посудомоечные машины"
   },
   {
     id: 6,
     name: "Винный шкаф Premium",
     price: 159900,
-    image: "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500&q=80",
+    image: "https://cdn.poehali.dev/projects/23b54783-75cb-45f5-b239-e8ecf680031b/files/79213e54-668e-4459-88b0-02226af57367.jpg",
     category: "Винные шкафы"
   }
 ];
